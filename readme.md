@@ -52,3 +52,10 @@ public async Task OnCommandExecutedAsync(Optional<CommandInfo> command, ICommand
 | NotPlaying | The bot must be not playing | The bot must be not playing in order to execute this command | 6 |
 | QueueEmpty | The player's queue must to be empty | The queue must to be empty in order to execute this command | 7 |
 | QueueNotEmpty | The player's queue must be not empty | The queue mustn't to be empty in order to execute this command | 8 |
+
+# Setup
+In order to import this package in your project, you can either download this repo as a zip and include files in your project, or install the nuget package with
+```
+Install-Package Victoria.Preconditions -Version 1.0.0
+```
+or [here](https://www.nuget.org/packages/Victoria.Preconditions/1.0.0)
