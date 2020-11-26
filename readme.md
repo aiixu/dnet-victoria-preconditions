@@ -1,6 +1,6 @@
 # About the author
 
-I'm Stévan Corre, a 18yo french developper searching for things to code ^^.  If you can feel free to donate [here](https://www.paypal.com/paypalme/aiixu) 😁
+I'm [Stévan Corre](https://www.paypal.com/paypalme/aiixu), a 18yo french developper.
 
 # Usage
 
